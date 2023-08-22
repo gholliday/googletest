@@ -9,8 +9,8 @@ import java.util.List;
 public class ListGcsBuckets {
   public static void listGcsBuckets(String googleAccessKeyId, String googleAccessKeySecret) {
 
-    String googleAccessKeyId = "GOOG1EUKHLVYQYZOG44OSYFJBJBP6XUYKI5MT37ZPDYF7HQ5B7S7PDBSERFQK";
-    String googleAccessKeySecret = "XUHJGIk8IP+MopTBoPkJPvv7bHSuWmrl4fVvotyN";
+    String googleAccessKeyId = "GOOG1EQZ34MKM5NTMJ2TCZXXRYSB43SME4UMZYVX57WX5J73CSVDJ5RVUC72Y";
+    String googleAccessKeySecret = "c+rZHiIPwEXaflHldZoiGCCUOZlDam9rzKdAFSQ3";
 
     // Create a BasicAWSCredentials using Cloud Storage HMAC credentials.
     BasicAWSCredentials googleCreds =
